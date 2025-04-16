@@ -48,6 +48,9 @@ High-Level Overview:
 ```
 
 # Output:
+![alt text](output1.png)
+![alt text](true.png)
+![alt text](false.png)
 
 # Result:
 Thus,to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is successfully executed.
