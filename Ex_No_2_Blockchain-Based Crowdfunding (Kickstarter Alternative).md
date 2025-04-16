@@ -68,16 +68,16 @@ contract Crowdfunding {
 
 
 # Output:
-![alt text](<Screenshot 2025-04-16 123413.png>)
+![alt text](<output2.png>)
 
-1. Users can contribute ETH to the campaign:
-![alt text](<Screenshot 2025-04-16 123700.png>)
+# 1. Users can contribute ETH to the campaign:
+![alt text](<contribute.png>)
 
-2. If the goal is met, the creator can withdraw funds.
-![alt text](<Screenshot 2025-04-16 123717.png>)
+# 2. If the goal is met, the creator can withdraw funds.
+![alt text](<withdraw.png>)
 
-3. If the goal is not met, contributors can claim a refund.
-![alt text](<Screenshot 2025-04-16 123843-1.png>)
+# 3. If the goal is not met, contributors can claim a refund.
+![alt text](<refund.png>)
 
 # RESULT: 
 The result shows whether the campaign succeeded (funds go to creator) or failed (backers get refunds), with all actions transparently recorded on the blockchain.

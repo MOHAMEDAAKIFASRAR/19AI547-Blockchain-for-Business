@@ -48,8 +48,8 @@ High-Level Overview:
 ```
 
 # Output:
-![alt text](<Screenshot 2025-04-16 110951.png>)
- ![alt text](<Screenshot 2025-04-16 111004.png>)
-  ![alt text](<Screenshot 2025-04-16 111024.png>)
+![alt text](<output1.png>)
+ ![alt text](<true.png>)
+  ![alt text](<false.png>)
 # Result:
 Thus,to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is successfully executed.
