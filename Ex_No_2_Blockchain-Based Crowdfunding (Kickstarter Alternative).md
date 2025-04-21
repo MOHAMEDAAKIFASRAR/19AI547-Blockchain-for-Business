@@ -1,16 +1,26 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+
+# NAME:MOHAMED AAKIF ASRAR S
+# REGISTER NO:212223240088
+# DATE : 16/04/2025
+
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
 ## Algorithm:
 
-1. Create Campaign – Deploy smart contract with goal, deadline, and details.
-2. Contribute Funds – Backers send funds to the smart contract.
-3. Check Outcome (After Deadline) –
+# Step-1:
+Create Campaign – Deploy smart contract with goal, deadline, and details.
+# Step-2:
+Contribute Funds – Backers send funds to the smart contract.
+# Step-3:
+Check Outcome (After Deadline) –
     If goal met → funds go to creator.
     If goal not met → backers can refund.
-4. Withdraw/Refund – Creator withdraws or backers claim refund.
-5. Ensure Transparency – All actions are logged on blockchain.
+# Step-4:
+Withdraw/Refund – Creator withdraws or backers claim refund.
+# Step-5:
+Ensure Transparency – All actions are logged on blockchain.
 
 ## Program:
 ```

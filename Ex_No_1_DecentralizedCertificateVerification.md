@@ -1,18 +1,30 @@
 ### Experiment 1: Decentralized Certificate Verification
+
+# NAME:MOHAMED AAKIF ASRAR S
+# REGISTER NO:212223240088
+# DATE : 16/04/2025
+
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
-1. Issuer Creates Certificate: Generate and digitally sign the certificate.
+# Step-1: 
+Issuer Creates Certificate: Generate and digitally sign the certificate.
 
-2. Store Hash on Blockchain: Store the certificate’s hash and metadata on a decentralized ledger.
+# Step-2: 
+Store Hash on Blockchain: Store the certificate’s hash and metadata on a decentralized ledger.
 
-3. Verifier Retrieves Hash: The verifier checks the blockchain for the certificate hash.
+# Step-3: 
+Verifier Retrieves Hash: The verifier checks the blockchain for the certificate hash.
 
-4. Compare Hashes: If the retrieved hash matches, the certificate is valid; otherwise, it's invalid or tampered.
+# Step-4: 
+Compare Hashes: If the retrieved hash matches, the certificate is valid; otherwise, it's invalid or tampered.
 
-5. validation (Optional): Check for updates or revocations on the blockchain.
+# Step-5: 
+Validation (Optional): Check for updates or revocations on the blockchain.
 
-6. This process ensures secure, decentralized verification.
+# Step-6: 
+This process ensures secure, decentralized verification.
+
 ## Program:
 ```
 // SPDX-License-Identifier: MIT
